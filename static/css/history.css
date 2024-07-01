@@ -1,0 +1,22 @@
+.unique-booking-history-page {
+    font-family: Arial, sans-serif;
+    margin: 60px;
+
+}
+.unique-booking-history-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.unique-booking-history-table th, .unique-booking-history-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+.unique-booking-history-table th {
+    background-color: #f2f2f2;
+}
+.unique-booking-history-heading {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: aliceblue;
+}

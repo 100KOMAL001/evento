@@ -1,0 +1,75 @@
+.viepriceBox-container{
+    display: flex;
+
+    justify-content: space-around;
+    gap:1.5rem;
+  }
+  .viewpriceBox{
+    padding:2rem 2rem;
+    background: #333;
+    border-radius:0.5rem ;
+    text-align: center;
+    
+  }
+
+  .viewpriceBoxTitle{
+    background: var(--theme-color);
+    color: #fff;
+    padding: 2rem 0;
+    font-size: 2rem;
+
+  }
+  .viewpricePageAmount{
+    color: #fff;
+    padding-top: 2rem;
+    font-size: 4rem;
+    background: #333;
+  }
+  .viewpricePagedetail{
+    color: #fff;
+    padding-top: 2rem;
+    font-size: 3rem;
+
+  }
+
+ /* .viewpricePageList{
+    list-style: none;
+    padding:1rem 0;
+    background: #333;
+  }*/
+  /*.viewpricePageList li{
+    font-size: 1.5rem;
+    color:#eee;
+    padding:1rem 0;
+    background: #333;
+  }
+
+  .viewpricePageList li i{
+    color:var(--theme-color);
+    padding-right: 0.5rem;
+    background: #333;
+  }*/
+
+  .viewpricePageButton  {
+    margin-right: 5px; 
+    color:white; 
+    padding: 10px 20px; 
+    
+
+   
+    
+    background-color: var(--theme-color); 
+    border: 2px solid #000; 
+    border-radius: 10px; 
+    cursor: pointer; 
+    transition: background-color 0.3s, color 0.3s; 
+  }
+  
+.viewpricePageButton:hover {
+    background-color:blue; /* Change background color on hover */
+    color: white; /* Change text color on hover */
+  }
+
+ 
+  
+  
